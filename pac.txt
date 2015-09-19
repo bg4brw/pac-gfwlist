@@ -2093,6 +2093,8 @@ var rules = [
   "||ontrac.com",
   ".oopsforum.com",
   "open.com.hk",
+  "codeschool.com",
+  "codeacademy.com",
   "opendemocracy.net",
   "myopenid.com",
   "||myopenid.com",
