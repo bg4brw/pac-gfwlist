@@ -28,6 +28,7 @@ var rules = [
   "||juliepost.com",
   "|http://www.m-sport.co.uk",
   "||macgamestore.com",
+  ".doubleclick.net",
   "||metarthunter.com",
   "||mfxmedia.com",
   "||muzu.tv",
